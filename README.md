@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marvedbtye
-- 👀 I’m interested in music, video games, and 
-- 🌱 I’m currently learning R for statistical computing. 
-- 💞️ I’m looking to collaborate on my first coding project that I can showcase my and polish my coding skills.
+- 👀 I’m interested data analytics and visual storytelling through data.
+- 🌱 I’m currently learning DAX for to create custom calculations and analyze data inside data models
 - 📫 How to reach me? My email is cmondejar398@gmail.com  or you can call me through +639774111916 
 
 <!---
